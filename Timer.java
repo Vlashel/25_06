@@ -11,7 +11,7 @@ package testscrollpane;
 import javax.swing.JFrame;
 
 public class Timer {
-
+ 
     public static void main (String[] args)
     {
 

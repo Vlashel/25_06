@@ -106,7 +106,7 @@ public class TimerShow extends JFrame {
                         hours--;
                         minutes = 59;
                         seconds = 59;
-                    }
+                    } 
                 }
               } seconds--;  
               
