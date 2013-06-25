@@ -23,7 +23,7 @@ public class TimerShow extends JFrame {
             countDown();
         }
     });
-
+ееее
 
         private static JTextField field;
         private JButton buttonStart;
